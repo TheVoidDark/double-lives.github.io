@@ -65,12 +65,12 @@
 }
 
 .text h1 {
-    font-family: "Outer Sans", serif;
+    font-family: "Montserrat", serif;
     font-size: 3.5em;
 }
 
 .text h2 {
-    font-family: "Outer Sans", serif;
+    font-family: "Montserrat", serif;
     font-size: 4em;
     font-weight: 750;
     line-height: 1em;
@@ -143,22 +143,22 @@
 }
 
 body {
-    background-image: url('1992-feb.jpg');
+    background-image: url('LCPD.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
 @font-face {
-    font-family: 'Outer Sans';
-    src: url('Outer\ Sans.otf')
-        format('opentype');
+    font-family: 'Montserrat';
+    src: url('Montserrat-Regular.ttf')
+        format('truetype');
 }
 
 @font-face {
-    font-family: 'Outer Sans O';
-    src: url('Outer\ Sans\ O.otf')
-        format('opentype');
+    font-family: 'Montserrat';
+    src: url('Montserrat-Regular.ttf')
+        format('truetype');
 }
 
 @media(max-width: 815px) {
